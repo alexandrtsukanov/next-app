@@ -1,6 +1,8 @@
+'use client';
+
 export default function Ingridients() {
     return (
-        <h3>ingridients</h3>
+        <h3>Ingridients</h3>
     );
 }
   
